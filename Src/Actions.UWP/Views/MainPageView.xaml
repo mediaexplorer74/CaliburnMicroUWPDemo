@@ -9,7 +9,9 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <!--<StackPanel>
+
+        <!-- Experimental StackPanel -->
+            <StackPanel>
             <Button Content="Double tap me" micro:Message.Attach="[Event DoubleTapped] = [Action ShowMessage]" />
 
             <ListView ItemsSource="{Binding Movies}"
@@ -26,14 +28,19 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
-        </StackPanel>-->
-        <Hub x:Name="MainHub">
-            <HubSection Header="Prima sezione">
-                <DataTemplate>
-                    <TextBlock Text="{Binding Title}" />
-                </DataTemplate>
-            </HubSection>
-        </Hub>
+
+            <Hub x:Name="MainHub">
+                <HubSection Header="Prima sezione">
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Title}" />
+                    </DataTemplate>
+                </HubSection>
+            </Hub>
+
+        </StackPanel>
+        
+        
+        
 
     </Grid>
 </Page>

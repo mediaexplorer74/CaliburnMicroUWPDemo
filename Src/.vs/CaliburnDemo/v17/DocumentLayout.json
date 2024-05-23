@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6ABB7CC7-D2F1-4BA3-ADCF-8EF672DE7B8A}|Navigation.UWP\\Navigation.UWP.csproj|c:\\users\\admin\\source\\repos\\!4pda\\caliburnmicrouwp\\navigation.uwp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6ABB7CC7-D2F1-4BA3-ADCF-8EF672DE7B8A}|Navigation.UWP\\Navigation.UWP.csproj|c:\\users\\admin\\source\\repos\\mediaexplorer74\\caliburnmicrouwpdemo\\src\\navigation.uwp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6ABB7CC7-D2F1-4BA3-ADCF-8EF672DE7B8A}|Navigation.UWP\\Navigation.UWP.csproj|solutionrelative:navigation.uwp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ABB7CC7-D2F1-4BA3-ADCF-8EF672DE7B8A}|Navigation.UWP\\Navigation.UWP.csproj|c:\\users\\admin\\source\\repos\\!4pda\\caliburnmicrouwp\\navigation.uwp\\entities\\movie.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{6ABB7CC7-D2F1-4BA3-ADCF-8EF672DE7B8A}|Navigation.UWP\\Navigation.UWP.csproj|C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\navigation.uwp\\entities\\movie.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{6ABB7CC7-D2F1-4BA3-ADCF-8EF672DE7B8A}|Navigation.UWP\\Navigation.UWP.csproj|solutionrelative:navigation.uwp\\entities\\movie.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ABB7CC7-D2F1-4BA3-ADCF-8EF672DE7B8A}|Navigation.UWP\\Navigation.UWP.csproj|c:\\users\\admin\\source\\repos\\!4pda\\caliburnmicrouwp\\navigation.uwp\\viewmodels\\detailpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6ABB7CC7-D2F1-4BA3-ADCF-8EF672DE7B8A}|Navigation.UWP\\Navigation.UWP.csproj|C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\navigation.uwp\\viewmodels\\detailpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6ABB7CC7-D2F1-4BA3-ADCF-8EF672DE7B8A}|Navigation.UWP\\Navigation.UWP.csproj|solutionrelative:navigation.uwp\\viewmodels\\detailpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|c:\\users\\admin\\source\\repos\\!4pda\\caliburnmicrouwp\\actions.uwp\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\actions.uwp\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|solutionrelative:actions.uwp\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|c:\\users\\admin\\source\\repos\\!4pda\\caliburnmicrouwp\\actions.uwp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\actions.uwp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|solutionrelative:actions.uwp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|c:\\users\\admin\\source\\repos\\!4pda\\caliburnmicrouwp\\actions.uwp\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\actions.uwp\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|solutionrelative:actions.uwp\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|c:\\users\\admin\\source\\repos\\!4pda\\caliburnmicrouwp\\actions.uwp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\actions.uwp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|solutionrelative:actions.uwp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F628734-F371-4340-B76F-E34011F7EEF3}|CaliburnDemo.UWP\\CaliburnDemo.UWP.csproj|c:\\users\\admin\\source\\repos\\!4pda\\caliburnmicrouwp\\caliburndemo.uwp\\views\\mainpageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F628734-F371-4340-B76F-E34011F7EEF3}|CaliburnDemo.UWP\\CaliburnDemo.UWP.csproj|C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\caliburndemo.uwp\\views\\mainpageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F628734-F371-4340-B76F-E34011F7EEF3}|CaliburnDemo.UWP\\CaliburnDemo.UWP.csproj|solutionrelative:caliburndemo.uwp\\views\\mainpageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F628734-F371-4340-B76F-E34011F7EEF3}|CaliburnDemo.UWP\\CaliburnDemo.UWP.csproj|C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\caliburndemo.uwp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F628734-F371-4340-B76F-E34011F7EEF3}|CaliburnDemo.UWP\\CaliburnDemo.UWP.csproj|C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\caliburndemo.uwp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F628734-F371-4340-B76F-E34011F7EEF3}|CaliburnDemo.UWP\\CaliburnDemo.UWP.csproj|solutionrelative:caliburndemo.uwp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F628734-F371-4340-B76F-E34011F7EEF3}|CaliburnDemo.UWP\\CaliburnDemo.UWP.csproj|c:\\users\\admin\\source\\repos\\!4pda\\caliburnmicrouwp\\caliburndemo.uwp\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F628734-F371-4340-B76F-E34011F7EEF3}|CaliburnDemo.UWP\\CaliburnDemo.UWP.csproj|C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\caliburndemo.uwp\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F628734-F371-4340-B76F-E34011F7EEF3}|CaliburnDemo.UWP\\CaliburnDemo.UWP.csproj|solutionrelative:caliburndemo.uwp\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|c:\\users\\admin\\source\\repos\\!4pda\\caliburnmicrouwp\\actions.uwp\\views\\mainpageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\actions.uwp\\views\\mainpageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D842547-BF5D-424F-9C47-FF84C4693176}|Actions.UWP\\Actions.UWP.csproj|solutionrelative:actions.uwp\\views\\mainpageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,33 +64,31 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Navigation.UWP\\Entities\\Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Navigation.UWP\\Entities\\Movie.cs",
               "RelativeDocumentMoniker": "Navigation.UWP\\Entities\\Movie.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Navigation.UWP\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Navigation.UWP\\Entities\\Movie.cs",
               "RelativeToolTip": "Navigation.UWP\\Entities\\Movie.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T16:56:43.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T16:56:43.998Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DetailPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Navigation.UWP\\ViewModels\\DetailPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Navigation.UWP\\ViewModels\\DetailPageViewModel.cs",
               "RelativeDocumentMoniker": "Navigation.UWP\\ViewModels\\DetailPageViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Navigation.UWP\\ViewModels\\DetailPageViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Navigation.UWP\\ViewModels\\DetailPageViewModel.cs",
               "RelativeToolTip": "Navigation.UWP\\ViewModels\\DetailPageViewModel.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T16:56:28.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T16:56:28.287Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Navigation.UWP\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Navigation.UWP\\App.xaml.cs",
               "RelativeDocumentMoniker": "Navigation.UWP\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Navigation.UWP\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Navigation.UWP\\App.xaml.cs",
               "RelativeToolTip": "Navigation.UWP\\App.xaml.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T16:54:57.649Z",
@@ -100,97 +98,89 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Actions.UWP\\Entities\\Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Actions.UWP\\Entities\\Movie.cs",
               "RelativeDocumentMoniker": "Actions.UWP\\Entities\\Movie.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Actions.UWP\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Actions.UWP\\Entities\\Movie.cs",
               "RelativeToolTip": "Actions.UWP\\Entities\\Movie.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T16:46:12.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T16:46:12.157Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MainPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\CaliburnDemo.UWP\\ViewModels\\MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\CaliburnDemo.UWP\\ViewModels\\MainPageViewModel.cs",
               "RelativeDocumentMoniker": "CaliburnDemo.UWP\\ViewModels\\MainPageViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\CaliburnDemo.UWP\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\CaliburnDemo.UWP\\ViewModels\\MainPageViewModel.cs",
               "RelativeToolTip": "CaliburnDemo.UWP\\ViewModels\\MainPageViewModel.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T16:17:11.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T16:17:11.756Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Actions.UWP\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Actions.UWP\\App.xaml.cs",
               "RelativeDocumentMoniker": "Actions.UWP\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Actions.UWP\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Actions.UWP\\App.xaml.cs",
               "RelativeToolTip": "Actions.UWP\\App.xaml.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T16:34:57.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T16:34:57.241Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Actions.UWP\\ViewModels\\MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Actions.UWP\\ViewModels\\MainPageViewModel.cs",
               "RelativeDocumentMoniker": "Actions.UWP\\ViewModels\\MainPageViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Actions.UWP\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Actions.UWP\\ViewModels\\MainPageViewModel.cs",
               "RelativeToolTip": "Actions.UWP\\ViewModels\\MainPageViewModel.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T16:38:12.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T16:38:12.867Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "MainPageView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Actions.UWP\\Views\\MainPageView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Actions.UWP\\Views\\MainPageView.xaml.cs",
               "RelativeDocumentMoniker": "Actions.UWP\\Views\\MainPageView.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Actions.UWP\\Views\\MainPageView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Actions.UWP\\Views\\MainPageView.xaml.cs",
               "RelativeToolTip": "Actions.UWP\\Views\\MainPageView.xaml.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T16:38:06.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T16:38:06.741Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "MainPageView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\CaliburnDemo.UWP\\Views\\MainPageView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\CaliburnDemo.UWP\\Views\\MainPageView.xaml.cs",
               "RelativeDocumentMoniker": "CaliburnDemo.UWP\\Views\\MainPageView.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\CaliburnDemo.UWP\\Views\\MainPageView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\CaliburnDemo.UWP\\Views\\MainPageView.xaml.cs",
               "RelativeToolTip": "CaliburnDemo.UWP\\Views\\MainPageView.xaml.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T16:39:48.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T16:39:48.768Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Actions.UWP\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Actions.UWP\\App.xaml",
               "RelativeDocumentMoniker": "Actions.UWP\\App.xaml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\Actions.UWP\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\Actions.UWP\\App.xaml",
               "RelativeToolTip": "Actions.UWP\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-23T16:41:39.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T16:41:39.121Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\CaliburnDemo.UWP\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\CaliburnDemo.UWP\\App.xaml.cs",
               "RelativeDocumentMoniker": "CaliburnDemo.UWP\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!4PDA\\CaliburnMicroUWP\\CaliburnDemo.UWP\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\CaliburnMicroUWPDemo\\Src\\CaliburnDemo.UWP\\App.xaml.cs",
               "RelativeToolTip": "CaliburnDemo.UWP\\App.xaml.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T16:14:59.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T16:14:59.335Z"
             }
           ]
         }
