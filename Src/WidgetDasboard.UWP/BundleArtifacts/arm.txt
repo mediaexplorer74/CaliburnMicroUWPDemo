@@ -1,0 +1,5 @@
+MainPackage=C:\Users\Admin\source\repos\!RnD\UWP-WidgetDasboard\UWP-WidgetDasboard\bin\ARM\Debug\UWP-WidgetDasboard_1.0.0.0_ARM_Debug.appx
+SymbolPackage=C:\Users\Admin\source\repos\!RnD\UWP-WidgetDasboard\UWP-WidgetDasboard\obj\ARM\Debug\Symbols\UWP-WidgetDasboard_1.0.0.0_ARM_Debug.appxsym
+ResourcePack=C:\Users\Admin\source\repos\!RnD\UWP-WidgetDasboard\UWP-WidgetDasboard\bin\ARM\Debug\UWP-WidgetDasboard_1.0.0.0_scale-140.appx
+ResourcePack=C:\Users\Admin\source\repos\!RnD\UWP-WidgetDasboard\UWP-WidgetDasboard\bin\ARM\Debug\UWP-WidgetDasboard_1.0.0.0_scale-180.appx
+ResourcePack=C:\Users\Admin\source\repos\!RnD\UWP-WidgetDasboard\UWP-WidgetDasboard\bin\ARM\Debug\UWP-WidgetDasboard_1.0.0.0_scale-240.appx

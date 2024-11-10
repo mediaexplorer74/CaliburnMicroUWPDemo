@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Admin\source\repos\!RnD\UWP-WidgetDasboard\UWP-WidgetDasboard\bin\x86\Debug\UWP-WidgetDasboard_1.0.0.0_x86_Debug.appx
+SymbolPackage=C:\Users\Admin\source\repos\!RnD\UWP-WidgetDasboard\UWP-WidgetDasboard\obj\x86\Debug\Symbols\UWP-WidgetDasboard_1.0.0.0_x86_Debug.appxsym
