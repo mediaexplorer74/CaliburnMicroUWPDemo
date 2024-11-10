@@ -4,10 +4,9 @@
 This is a set of samples about using Caliburn Micro in a Universal Windows app. They are a companion to a series of posts published on qmatteoq's blog http://wp.qmatteoq.com & mikael's blog https://mikaelkoskinen.net
 
 ## Screenshot(s)
-![](Images/logo.png)
+![](Images/screenshot.png)
 
-
-## Theoretical dedails
+## Theoretical details
 Here is the full list of the posts:
 
 - The project setup: http://wp.qmatteoq.com/using-caliburn-micro-with-universal-windows-app-the-project-setup/
